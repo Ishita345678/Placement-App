@@ -156,6 +156,4 @@ JITSI_DOMAIN=meet.jit.si
 
 ---
 
-## 📜 License
-
-This project is open-source under the MIT License.
+  
